@@ -1,0 +1,15 @@
+samiksha :+919322709890
+// about version 
+ex. 4.18.3
+part 1-> 4: MAJOR AND BREAKING UPDATE(not to chnage in existing code , change only when have to start new project or add new things)
+
+part 2-> 18: recommended BUG FIX ( security fixer)
+major changes are done in server for security purpose and its mendatory to update its version
+
+
+part 3-> 3 : last prt which deals with minor changes( it is optional) - MINOR UPDATES
+
+
+version : ^4.18.3 this carrot symbol means it compatible  with version(4) you can INSTALLED RECOMMENDED AND MINOR FIXES AUTOMATICALLY
+~4.18.3 : (swiggly line) : INSTALL ONLY MINOR FIXES AUTOMATICALLY 
+
